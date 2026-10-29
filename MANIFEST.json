@@ -1,7 +1,7 @@
 {
  "source_repository": "Epoch of Tech (private game repository)",
- "source_commit": "d07a49ef6d0ecd9428d0d99ced8bda475f4bc35c",
- "built": "2026-10-29",
+ "source_commit": "d5c9a7dd3ac3373780dd1598d43adb5c0f464aa4",
+ "built": "2026-10-30",
  "licence": "ODbL-1.0 for OSM-derived databases; see ATTRIBUTION.md for other sources",
  "vectors": [
   {
@@ -49121,5 +49121,527 @@
     "sha256": "14054625c2f02fc2bad15e545a0b6a7d10c0a5de2937b9c931453b21fd9e1540"
    }
   ]
- }
+ },
+ "media": [
+  {
+   "path": "desktop_only/acorn_1981_3b7d6684.webp",
+   "bytes": 47916,
+   "sha256": "dcb53ab9a495eaa36d771d0f62867b65578cf890b4d4a0322e36eab1caced739"
+  },
+  {
+   "path": "desktop_only/amazon_1997_23ce6020.webp",
+   "bytes": 76632,
+   "sha256": "ca20d1b8410630bede2627a47781a3abb25c18807bf8f4546553d274c47c6ee9"
+  },
+  {
+   "path": "desktop_only/amd_1975_36ea2f74.webp",
+   "bytes": 13746,
+   "sha256": "fd5899f1fe272e9f44d98dbad72d2a40d6ee3e26f339720335334995a302dc79"
+  },
+  {
+   "path": "desktop_only/amdahl_1975_29bbe53d.webp",
+   "bytes": 128000,
+   "sha256": "44d313d12abca39ec46e48778cd4c883280393d0a68e64df115221f53d99b858"
+  },
+  {
+   "path": "desktop_only/amstrad_1984_f3771622.webp",
+   "bytes": 28504,
+   "sha256": "6a2181526d6c71fe946c4a6a1c33a04cbdea45ab3cba2f927fc39dc800ea196d"
+  },
+  {
+   "path": "desktop_only/amstrad_1986_414e91d6.webp",
+   "bytes": 34816,
+   "sha256": "e5fdf7eae4582d82a820343c0fde33e694d983cc7dd74000ef6216d69a81ffaa"
+  },
+  {
+   "path": "desktop_only/apple_1976_bcea824d.webp",
+   "bytes": 60662,
+   "sha256": "6b0dbec58b56a19680522a39c2f58f7041f3aa51cafd2ba3fe572d6e3afafcbf"
+  },
+  {
+   "path": "desktop_only/apple_1984_80168679.webp",
+   "bytes": 52272,
+   "sha256": "1fcd62dbcbd9866b735dadb0c4abbaf40e30a765aecc5587b90a91a7e59c50b5"
+  },
+  {
+   "path": "desktop_only/apple_2007_68a23fbc.webp",
+   "bytes": 17518,
+   "sha256": "29f2b5a1204eb570f252a9879230ceea582134201b50e3ce1a168d569dd6b850"
+  },
+  {
+   "path": "desktop_only/asus_2007_01f1b775.webp",
+   "bytes": 44572,
+   "sha256": "ffc4e857fd972aa13db20e448d5f95c5186b26e5e5656443fc5de664afd3361d"
+  },
+  {
+   "path": "desktop_only/at_and_t_1947_af68dd1d.webp",
+   "bytes": 55270,
+   "sha256": "b41a0539e4e2f68cb0dbdb6a6c0dc83259b82499664584ff7338933fe9ccaa85"
+  },
+  {
+   "path": "desktop_only/atari_1972_f38fbaed.webp",
+   "bytes": 42846,
+   "sha256": "32f72c2475920b088ee891258b90e7932382c19e206183086e9bb668caa7dfaa"
+  },
+  {
+   "path": "desktop_only/baidu_2010_520c486f.webp",
+   "bytes": 104388,
+   "sha256": "52d24ee6634840ece8d13399a5374fd5af5cb2d57556f6b2b094a1cf216a073e"
+  },
+  {
+   "path": "desktop_only/bce_1983_54ee15a0.webp",
+   "bytes": 101592,
+   "sha256": "19e6979b6cd29903c5df93d8e988e512cff404443346154fce258dc04706aa95"
+  },
+  {
+   "path": "desktop_only/blackberry_1996_05bebbdf.webp",
+   "bytes": 76280,
+   "sha256": "e43f2f1592c26971ac9b94c0cb766e1bca5e3ca52e045d1841ac6c0aca7d8d6e"
+  },
+  {
+   "path": "desktop_only/blackberry_1999_54547106.webp",
+   "bytes": 109086,
+   "sha256": "acd632cd95e59271cde37918a7c4aa37dae8e498542fdebc0aef88bbde8195bb"
+  },
+  {
+   "path": "desktop_only/blackberry_2011_70d16d84.webp",
+   "bytes": 41308,
+   "sha256": "a3258881a5b22a6df974b283b45d3236eabf4ff905a85b8870b39e9b19773d7e"
+  },
+  {
+   "path": "desktop_only/bytedance_2012_3735f07f.webp",
+   "bytes": 150366,
+   "sha256": "5654e33d8e618bb294b4fd955d1b481ecc701070c757da5cf1946775f89c4604"
+  },
+  {
+   "path": "desktop_only/casio_1972_e3d3eae1.webp",
+   "bytes": 37348,
+   "sha256": "556803ee3e32abfdacf83619114997f3875659d69d1af3837c2e085745fa8c0d"
+  },
+  {
+   "path": "desktop_only/cisco_1984_6f2a68c4.webp",
+   "bytes": 58764,
+   "sha256": "41771507e47fbb24a0bc0ddd3803ce138d24d5e5a1237298bedee3630ed48055"
+  },
+  {
+   "path": "desktop_only/commodore_1985_93f36ada.webp",
+   "bytes": 50620,
+   "sha256": "456c984a58581ec0785c14f664918d1a701191ce174159e2e35c3065b12a6f61"
+  },
+  {
+   "path": "desktop_only/control_data_1959_75f36120.webp",
+   "bytes": 133456,
+   "sha256": "52905473be4b317ab282d210ecbc03526be58acf9411e2c9ba4d441cbb7892de"
+  },
+  {
+   "path": "desktop_only/control_data_1964_bd67f462.webp",
+   "bytes": 50318,
+   "sha256": "93d2a4992c79915e2e0fc8a47582eda7e421736e481735ff10814bbb1fc21e77"
+  },
+  {
+   "path": "desktop_only/coupang_2014_196385bc.webp",
+   "bytes": 63334,
+   "sha256": "697f19e6062541f8613c78fb5b15dacaee20491b1833f92c60f95ef3010b336d"
+  },
+  {
+   "path": "desktop_only/cray_research_1976_657ec8f3.webp",
+   "bytes": 79184,
+   "sha256": "c481c724d879f6316b99d3f994874d2c687261725e2705662c1b65f6e3fe7b8f"
+  },
+  {
+   "path": "desktop_only/cray_research_1984_e4eeb177.webp",
+   "bytes": 10436,
+   "sha256": "b467aac44ae83172de0b654b1bccdd64d69ab5348d474584c0bc284e72483b1f"
+  },
+  {
+   "path": "desktop_only/dec_1965_7b33ffe4.webp",
+   "bytes": 37094,
+   "sha256": "628d0000cb14595a04ac9aae217fb512e49d937ee09320eb8f977bd1cacd33ec"
+  },
+  {
+   "path": "desktop_only/dec_1977_5d0e9393.webp",
+   "bytes": 47324,
+   "sha256": "5534296c5d6cc40d5cca93ba1e8ca6f0bcf017cd3c00af61977449fde43c5904"
+  },
+  {
+   "path": "desktop_only/dell_1996_79cd396c.webp",
+   "bytes": 40742,
+   "sha256": "4c2e4e0f31171ef89858afe8678b2ed6e4c232da3788598dca8f6487a175e70e"
+  },
+  {
+   "path": "desktop_only/didi_2021_a766478b.webp",
+   "bytes": 160870,
+   "sha256": "51e0b699eb7851bd2c90e891b788894ca6b65d56d32b3754ca5ceba798d36d1a"
+  },
+  {
+   "path": "desktop_only/digital_research_1982_7917f5e5.webp",
+   "bytes": 35878,
+   "sha256": "99f1aff425ef254a2a33268980055165e70c5760951d99c2d29ce0b7a74e21c9"
+  },
+  {
+   "path": "desktop_only/ebay_1998_10658bcc.webp",
+   "bytes": 151758,
+   "sha256": "a4f67a07b13d0182bc7be4964236db149d0841bb6a861bd1d3a62cd5b49e07b5"
+  },
+  {
+   "path": "desktop_only/flipkart_2022_c56b0969.webp",
+   "bytes": 34128,
+   "sha256": "80fad80b44c0369febade24b8454d51966ae69340d3e3e40c76c124d5d58388d"
+  },
+  {
+   "path": "desktop_only/foxconn_2016_2bedd99d.webp",
+   "bytes": 52630,
+   "sha256": "9c761c977f3ad072680d89c6e6479c754ffb8e813c14eaa3dcaba1fa80da8096"
+  },
+  {
+   "path": "desktop_only/globalfoundries_2010_1d37c76a.webp",
+   "bytes": 163878,
+   "sha256": "e25e787b48fa168d4d7a8dafee156c052b9d98621065e20726ec123126d0cf88"
+  },
+  {
+   "path": "desktop_only/google_1998_bebf70c7.webp",
+   "bytes": 135582,
+   "sha256": "fcf1cf75eb88e1750c8348a28c9b8147267d30458bac9f07c216166aec37eabd"
+  },
+  {
+   "path": "desktop_only/gradiente_1985_122162be.webp",
+   "bytes": 64044,
+   "sha256": "60e3f022c0c2decd77b1a047bdc86b392857eb39595a607f9c30ca145d753517"
+  },
+  {
+   "path": "desktop_only/handspring_1999_1ce95a4b.webp",
+   "bytes": 32698,
+   "sha256": "6379ec80b1fbd2c51b0dca7bde5e112346e4eb1eaa8d7edb1766629555d02a2a"
+  },
+  {
+   "path": "desktop_only/hp_1939_125127b4.webp",
+   "bytes": 196430,
+   "sha256": "a76db12599667614b27df9436e7b4e3efc191a7e052a3a5fcd2e4dd0001b24ea"
+  },
+  {
+   "path": "desktop_only/ibm_1964_7ddc4c3b.webp",
+   "bytes": 35642,
+   "sha256": "52a738e1155e6df1a1c2af4739ce9493b89804da7644c8d4e03260d97f803d8f"
+  },
+  {
+   "path": "desktop_only/ibm_1981_b34aea29.webp",
+   "bytes": 39052,
+   "sha256": "91292e23e46321e88cd65f263b85818817ce503b2f07c2605a9e8264f8523b76"
+  },
+  {
+   "path": "desktop_only/icl_1971_be236767.webp",
+   "bytes": 82276,
+   "sha256": "e3c1e7e28e11e002eb9f0df72a2f8809df3fa66be9c9e020f59c4616fb993d4b"
+  },
+  {
+   "path": "desktop_only/instagram_2010_f434f1a2.webp",
+   "bytes": 74958,
+   "sha256": "8ced384f708854f13d465046b79ad7012982e0caa7bfc0608f1a98466fdf13bf"
+  },
+  {
+   "path": "desktop_only/intel_1985_016c6c6c.webp",
+   "bytes": 28904,
+   "sha256": "f77c68429c22f4336f32908fb85dbb847b6aa1f0e006c5cf74132f1770b3bf78"
+  },
+  {
+   "path": "desktop_only/jolla_2013_36904a71.webp",
+   "bytes": 16284,
+   "sha256": "321b80e776fcfa823932b5569dbef6c5e98f21879f2036bc639f994afe3c8304"
+  },
+  {
+   "path": "desktop_only/kakao_2017_7f980444.webp",
+   "bytes": 115974,
+   "sha256": "3436d52a861d6302c025d69ec0f80e06578da2cabe8a736a76b3c913fd973a41"
+  },
+  {
+   "path": "desktop_only/kakao_2023_e8093a6c.webp",
+   "bytes": 145408,
+   "sha256": "25c614c60d7e75e5a74de44a5140be9f1efb354afd2482c50b88937b4da6d074"
+  },
+  {
+   "path": "desktop_only/lenovo_1994_1b74204f.webp",
+   "bytes": 124954,
+   "sha256": "bd122fb30473604e66b13f8adfe227191b3d6836b7300caf58318ce861502ed7"
+  },
+  {
+   "path": "desktop_only/lexmark_1992_2b9a91a6.webp",
+   "bytes": 45438,
+   "sha256": "a5b1babb3204ebc31b90f4b4a39b529f0eeb83c50450c1d3b48304ae106731f3"
+  },
+  {
+   "path": "desktop_only/lucent_technologies_1996_5e352012.webp",
+   "bytes": 164216,
+   "sha256": "f88a3e69f96228f4b38aed7cbca08d8e9cf78fb08fcc9c2a7b42c66cf8c179b9"
+  },
+  {
+   "path": "desktop_only/mediatek_1998_34461b74.webp",
+   "bytes": 245674,
+   "sha256": "baeda79d37f21a728995e0e8e6d0fa0643a1163fd26dc17ff8baf31f283dd5c8"
+  },
+  {
+   "path": "desktop_only/meituan_2021_c9b9ba59.webp",
+   "bytes": 125392,
+   "sha256": "c7da0a55fd448bf0c99b0e73c29aa4285b34eb85a42054b4ea5d255e09b181b1"
+  },
+  {
+   "path": "desktop_only/meta_2004_a2497a15.webp",
+   "bytes": 139478,
+   "sha256": "2f189e777b705cf544a8d6ad9cf7881b48cf56eaf06d945f07f0bc2052e3f104"
+  },
+  {
+   "path": "desktop_only/microsoft_1986_97daf12b.webp",
+   "bytes": 95686,
+   "sha256": "5f4ee20874c4008cde84877ff899125d491412d5bb578c15d616ed924d01ddaf"
+  },
+  {
+   "path": "desktop_only/mobileye_2007_bca19645.webp",
+   "bytes": 72106,
+   "sha256": "6c897187687818fca9fff88beac02a77741df0629161d3530527afbca267f9ff"
+  },
+  {
+   "path": "desktop_only/motorola_1983_0702c1b3.webp",
+   "bytes": 32388,
+   "sha256": "32fca1c0c84e593749de498b54181a805de6855b438b8f3f5675c66a38c4d6cd"
+  },
+  {
+   "path": "desktop_only/motorola_1996_6eb8f31f.webp",
+   "bytes": 137350,
+   "sha256": "a0d605b298c96d44aa32a8149b285d3c2b3c50f8e81e5f3a78eeaf4a0d7f79d2"
+  },
+  {
+   "path": "desktop_only/national_semiconductor_1967_f4513023.webp",
+   "bytes": 9228,
+   "sha256": "642491af0a68852b3a882d90ccb5c49834ca0334abea8824c7323372c65f7785"
+  },
+  {
+   "path": "desktop_only/nec_1982_dfaa4a39.webp",
+   "bytes": 30788,
+   "sha256": "7a1acbe6b9094d987f1a3c5c69ec466a311f71697b93eb98e468a1a5bc194ab2"
+  },
+  {
+   "path": "desktop_only/netflix_1998_38942b7f.webp",
+   "bytes": 79776,
+   "sha256": "638d41bfdfd4bd7a29387f38ccba7212362d30cd69d473796947bf9cff30e4b8"
+  },
+  {
+   "path": "desktop_only/netscape_1994_8e9ffa67.webp",
+   "bytes": 43114,
+   "sha256": "01373b414e381698fdda8a07376f70bc993a70bca690fe491fdfd6a885c86feb"
+  },
+  {
+   "path": "desktop_only/nintendo_1900_a353406d.webp",
+   "bytes": 41832,
+   "sha256": "fc59e0b6d150895913911475c4db653107dde1a85c893bf7c42c0f1922cc2d15"
+  },
+  {
+   "path": "desktop_only/nvidia_1997_45b5558c.webp",
+   "bytes": 256934,
+   "sha256": "53161a698c4853e95a4f03dee25c6c34ef8f1ddc377282329096c9a9324bf55c"
+  },
+  {
+   "path": "desktop_only/olivetti_1965_08e36a92.webp",
+   "bytes": 23642,
+   "sha256": "663711a3053a5d06e56af0399a40c760655a2d60042eb584495c532b82ce67a2"
+  },
+  {
+   "path": "desktop_only/osborne_1981_bb318b47.webp",
+   "bytes": 78984,
+   "sha256": "f0d5f5d260a93c26a2858169e9e78f34a81f0181bf1847f3875ae789909275e5"
+  },
+  {
+   "path": "desktop_only/palm_1996_146dfb79.webp",
+   "bytes": 52814,
+   "sha256": "14c87784457c1270e29430a47a3ce1560a5a67a88e79585769bb3597b73e744c"
+  },
+  {
+   "path": "desktop_only/sap_1988_19c08232.webp",
+   "bytes": 143312,
+   "sha256": "5b7dd832b23e7d8c1d9aeba2cfb949bd24c3d748cc28e6634dab53a6c82d37ec"
+  },
+  {
+   "path": "desktop_only/seagate_1980_2fc6f4c5.webp",
+   "bytes": 40088,
+   "sha256": "ec3499dde4b8e4d7700746558e543d61db844bd900208b4d6b847b73ad24a8cd"
+  },
+  {
+   "path": "desktop_only/siemens_mobile_1993_d2618006.webp",
+   "bytes": 21278,
+   "sha256": "65534dc918eed219eb5e3a183865ec96afde0d70e6495d58fa2e049dfd38483f"
+  },
+  {
+   "path": "desktop_only/sinclair_1982_4c86b0a5.webp",
+   "bytes": 44918,
+   "sha256": "bd5b49d07adbd4b018dbbc80d0b40668e25507c7421ea2a67375de7793737860"
+  },
+  {
+   "path": "desktop_only/sinclair_1985_7b9d4f07.webp",
+   "bytes": 117876,
+   "sha256": "5ede2172d92e034c3e6818e3aa189e0161747414fe45eddee5fd46f56c2260bb"
+  },
+  {
+   "path": "desktop_only/softbank_2001_ea55a0e1.webp",
+   "bytes": 113976,
+   "sha256": "a8f3b86eaef5769b3cd538febec9ce4996d198f789e495b17520f484ed84ba02"
+  },
+  {
+   "path": "desktop_only/sony_1979_8f36a5a6.webp",
+   "bytes": 42390,
+   "sha256": "60cc4ba06fec7a4ded60235fe94d4b70ef4c147fe94e6dd68ecbce9904aed110"
+  },
+  {
+   "path": "desktop_only/sony_ericsson_2003_d50d082e.webp",
+   "bytes": 107272,
+   "sha256": "197b7b62af581c752f94a787f9556292805ee912965a2ec93121e352b7415f7b"
+  },
+  {
+   "path": "desktop_only/spotify_2006_f225312f.webp",
+   "bytes": 58220,
+   "sha256": "4343c87fbb032d04ba63a9a185d8e984307bf2d0e07a77d69f47e4b9ae5126e1"
+  },
+  {
+   "path": "desktop_only/stripe_2021_509321fe.webp",
+   "bytes": 88690,
+   "sha256": "73f9f819589b8395503bfb8bd01a20be91881df5547814c0339d7f16dbd291e2"
+  },
+  {
+   "path": "desktop_only/sun_microsystems_1982_768c5edd.webp",
+   "bytes": 40596,
+   "sha256": "1cefff03c1e00a7cd7e8ab5d25bea503a376df08c6f365e96ba59ae736ea2b44"
+  },
+  {
+   "path": "desktop_only/suntech_power_2005_09b0f298.webp",
+   "bytes": 214772,
+   "sha256": "1df7f97419237900e21cfd3cd0e238ee7eec4d594ba750e5a22bda6b1f418ab1"
+  },
+  {
+   "path": "desktop_only/tandy_1980_c8dab6fa.webp",
+   "bytes": 70764,
+   "sha256": "ff44adc5901c772b1d5c2e128374e35950833b25264ae0c40150ecdeac86c5fe"
+  },
+  {
+   "path": "desktop_only/tesla_2008_a5459c46.webp",
+   "bytes": 45588,
+   "sha256": "fd3c3e7b3acf09c4b3e08e836b1d4be07ffb99c3bd13c77c1d12cb7b3a9b3f57"
+  },
+  {
+   "path": "desktop_only/tesla_2012_bc759943.webp",
+   "bytes": 51142,
+   "sha256": "72b112a5d9e5931a1af427a149c4dea68b232d61bb675b1cac0fa7f04f7847d5"
+  },
+  {
+   "path": "desktop_only/texas_instruments_1954_71fc01ae.webp",
+   "bytes": 13448,
+   "sha256": "4a342a21d021af20f978daedf2854ef36fe98e60cacdc70022b2d0edb6d85749"
+  },
+  {
+   "path": "desktop_only/texas_instruments_1958_6b26f46d.webp",
+   "bytes": 64378,
+   "sha256": "2b4e3aa2eb631f5b1a86ff6445bbf1d8c94731af8e7e0682e9efa3fbca7a2e03"
+  },
+  {
+   "path": "desktop_only/three_com_1984_51772ac9.webp",
+   "bytes": 125140,
+   "sha256": "aa38848a55a277fde52359e74f248f5b49d1bf714a7d564d7b61a32a4808d6bb"
+  },
+  {
+   "path": "desktop_only/toshiba_1985_8ede7f35.webp",
+   "bytes": 76482,
+   "sha256": "559ccf5ce9edbf8d073136c084f65534e00369917cd72d330a8247c9f233dfa0"
+  },
+  {
+   "path": "desktop_only/trigem_1999_8c6c6b26.webp",
+   "bytes": 46786,
+   "sha256": "834f661afceeac01ea6f0b9e194bee0c733943f1bf913bf76b10d349c317a155"
+  },
+  {
+   "path": "desktop_only/twitter_2013_2025f9ed.webp",
+   "bytes": 122494,
+   "sha256": "85c456b0f0e894dddd0754ba9f846037036d0d31452d4c6dbe8593a79500de28"
+  },
+  {
+   "path": "desktop_only/uber_2019_07ac49d8.webp",
+   "bytes": 65800,
+   "sha256": "f83999423ad321eaa69c5dbd5c127566f1bf18ed21d4b05c7e10a6fde7cd4e8d"
+  },
+  {
+   "path": "desktop_only/verizon_2000_65c128f8.webp",
+   "bytes": 107572,
+   "sha256": "30efb356299b46c21f3802e15a1e9db02d7a56789db568ddf1808d51dd3401ba"
+  },
+  {
+   "path": "desktop_only/webvan_2000_d64b4129.webp",
+   "bytes": 82090,
+   "sha256": "0507809e932432d098fde2e41a3e4ab7df8cc1d4d8e507d6860eed40a63085da"
+  },
+  {
+   "path": "desktop_only/wipro_1980_066daa76.webp",
+   "bytes": 90972,
+   "sha256": "008d2bd449724a2af21792a7fcf56285023493448cdbd8ecd8fd528b3357c2fe"
+  },
+  {
+   "path": "desktop_only/xerox_1959_ce68a48d.webp",
+   "bytes": 72408,
+   "sha256": "462c9b44c56eb1247f62fcdf1aeb211110e33d60b24e5c7657b1058842e4ebd4"
+  },
+  {
+   "path": "desktop_only/xerox_1973_91c1873e.webp",
+   "bytes": 98002,
+   "sha256": "a70f3265035b440c226b9b33a6e64aa2a7195a556b8f76db40168af3a891a2ce"
+  },
+  {
+   "path": "desktop_only/yahoo_2017_555ca7ea.webp",
+   "bytes": 118168,
+   "sha256": "3851dc02f4bf1a00c7eaca8e351df49a14ab92a4ae2a13d0564583bb45bd541a"
+  },
+  {
+   "path": "desktop_only/youtube_2005_289ff625.webp",
+   "bytes": 86056,
+   "sha256": "fbd94eaa5a4316e692ecb1b4c96fb8591a0d5336d1c86f4541c1b2a0af8ec1ca"
+  },
+  {
+   "path": "desktop_only/zoom_2020_31738243.webp",
+   "bytes": 133834,
+   "sha256": "30f03668d99be8ef86ebedf88e253d25002fec02a82f8a74f75ceb3979164410"
+  },
+  {
+   "path": "helsing_2024_3ea3af25.webp",
+   "bytes": 96864,
+   "sha256": "d2f76b4d1dfb72eaed9979f5d1ff11f06a248b1ce42a418d7b5e90835c5c6040"
+  },
+  {
+   "path": "intel_1974_6083795a.webp",
+   "bytes": 87960,
+   "sha256": "5878f177218cd9b0ca657236a9789d3a0d9d1fe44b2b4b36541a154fdfbac41c"
+  },
+  {
+   "path": "openai_2025_6994e67a.webp",
+   "bytes": 116416,
+   "sha256": "ed56175b146a43249f71f279bb411aa37a3512a411d76424238ca936ee9ee17c"
+  },
+  {
+   "path": "orienspace_2024_731567fe.webp",
+   "bytes": 13508,
+   "sha256": "f805d4cdd63e4c4a63318a450f92388a1b05c06af1fa7ee3eb06f94452644353"
+  },
+  {
+   "path": "psion_1984_0d97e0e3.webp",
+   "bytes": 40444,
+   "sha256": "617801e83f35684867404e5deaef166e3aacebbad665eeeedcca14dd3e88e4b2"
+  },
+  {
+   "path": "supercell_2016_d426f676.webp",
+   "bytes": 88100,
+   "sha256": "4d18dcd98f5fb0b8e0abfc53d183801742b9fbfb667b2d4a4193fa05e161c565"
+  },
+  {
+   "path": "tsmc_1994_ee8a093a.webp",
+   "bytes": 75472,
+   "sha256": "6b1784858056486a7d4c112e36e475f01e514909a45d430a78daf42657c19e67"
+  },
+  {
+   "path": "xiaomi_2024_ced1e525.webp",
+   "bytes": 183324,
+   "sha256": "408ef37d6e34fdc5d3340e064c9a8e305b16bf561f274d9788dfeb9b0d8d1f29"
+  }
+ ]
 }

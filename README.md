@@ -10,7 +10,7 @@ requires for a publicly used produced work.
 Map data © OpenStreetMap contributors. See [ATTRIBUTION.md](ATTRIBUTION.md) for every
 source and licence.
 
-Page: https://github.com/puritysb/epoch-of-tech-geodata · built 2026-10-29 from game commit `d07a49ef6d0e`.
+Page: https://github.com/puritysb/epoch-of-tech-geodata · built 2026-10-30 from game commit `d5c9a7dd3ac3`.
 
 ## Contents
 
@@ -18,6 +18,7 @@ Page: https://github.com/puritysb/epoch-of-tech-geodata · built 2026-10-29 from
 |---|---|---|
 | 281 vector databases (JSON, gzip JSON) for 35 regions | [`data/`](data/) | 59.8 MiB |
 | 9541 terrain meshes and rasters (Godot `.res`, PNG, WebP) | Release asset `epoch-of-tech-geodata-rasters-2026-10-29.tar.gz` | 420.8 MiB |
+| 104 Creative Commons photographs, exactly as shipped in the game | [`media/`](media/) · [credits](media/CREDITS.md) | 8.0 MiB |
 | Paths, sizes and SHA-256 of every file | [`MANIFEST.json`](MANIFEST.json) | |
 
 Regions: austin, bangalore, daedeok, dresden, edinburgh, geneva, guangzhou, gumi, helsinki, hsinchu, hyderabad_hitec, london, mesh_cache, montreal, munich, new_york, osaka, research_triangle, route_128, sao_paulo, seattle, seoul_metro, shenzhen, silicon_fen, silicon_valley, singapore, stockholm, sydney, tel_aviv, tokyo, toronto, world, zhangjiang, zhongguancun, zurich.
@@ -38,5 +39,8 @@ classification into the game's land-use categories.
 ## Licence
 
 OpenStreetMap-derived databases: ODbL 1.0, contents DbCL 1.0. Other sources keep their
-own terms listed in [ATTRIBUTION.md](ATTRIBUTION.md). The game itself, its code and
+own terms listed in [ATTRIBUTION.md](ATTRIBUTION.md). Photographs in `media/` keep their own
+Creative Commons licences listed in [media/CREDITS.md](media/CREDITS.md); they are published here
+DRM-free so that the copies distributed through game stores never restrict anyone's rights
+under those licences. The game itself, its code and
 its artwork are not part of this release.
