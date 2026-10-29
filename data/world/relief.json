@@ -1,0 +1,1 @@
+{"bounds": {"west": -180.0, "south": -90.0, "east": 180.0, "north": 90.0}, "size": [4096, 2048], "max_elevation_m": 6000.0, "z_factor": 7.0, "sun_azimuth_deg": 315.0, "sun_altitude_deg": 42.0, "source": "Terrain Tiles on AWS (Mapzen terrarium)", "tile_zoom": 5}

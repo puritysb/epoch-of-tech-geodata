@@ -1,0 +1,30 @@
+{
+ "bounds": {
+  "west": 130.43353174603175,
+  "east": 140.43353174603175,
+  "north": 39.64980158730159,
+  "south": 29.64980158730159
+ },
+ "size": [
+  1260,
+  1260
+ ],
+ "pixels_per_deg": 126,
+ "channels": {
+  "r": "BuiltUp",
+  "g": "Tree",
+  "b": "Crops"
+ },
+ "source": "Copernicus Global Land Service: Land Cover 100m, collection 3, epoch 2019, v3.0.1 (cover-fraction layers)",
+ "source_url": "https://zenodo.org/records/3939050",
+ "license": "CC-BY-4.0",
+ "reduce": 8,
+ "smooth_sigma": 0.6,
+ "channel_bits": [
+  4,
+  5,
+  4
+ ],
+ "nodata_fill": "nearest-valid",
+ "sha256": "385ce6a142e52a6e082edde2fcf835224c4ff36f9a1d0e3f9302261bd0f33cee"
+}

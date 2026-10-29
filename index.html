@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Epoch of Tech — Open Geodata</title>
+<meta name="description" content="Epoch of Tech 게임이 쓰는 OpenStreetMap 파생 지리 데이터베이스의 ODbL 공개본">
+<style>
+:root {
+	--bg: #f6f1e7; --fg: #1f2326; --muted: #5d6468; --accent: #8b2500; --card: #fffaf0; --line: #ddd3c2;
+}
+@media (prefers-color-scheme: dark) {
+	:root { --bg: #14181b; --fg: #e9e4da; --muted: #a2aaae; --accent: #e07a52; --card: #1c2125; --line: #2f363b; }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--fg);
+	font: 16px/1.65 "Pretendard", -apple-system, "Apple SD Gothic Neo", "Noto Sans KR", system-ui, sans-serif; }
+main { max-width: 860px; margin: 0 auto; padding: 48px 16px 64px; }
+.eyebrow { color: var(--accent); letter-spacing: .14em; font-size: 13px; text-transform: uppercase; margin: 0; }
+h1 { font-size: clamp(30px, 6vw, 46px); line-height: 1.15; margin: 8px 0 12px; }
+h2 { font-size: 20px; margin: 40px 0 10px; }
+p.lede { font-size: 18px; color: var(--muted); margin: 0 0 8px; }
+a { color: var(--accent); }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; margin-top: 16px; }
+.card { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 16px; }
+.card b { display: block; font-size: 22px; }
+.card span { color: var(--muted); font-size: 14px; }
+.button { display: inline-block; margin: 6px 8px 0 0; padding: 10px 16px; border-radius: 8px; border: 1px solid var(--accent);
+	text-decoration: none; font-weight: 600; }
+.button.primary { background: var(--accent); color: var(--bg); }
+ul { padding-left: 20px; }
+code { font-size: 14px; overflow-wrap: anywhere; }
+footer { margin-top: 48px; color: var(--muted); font-size: 14px; border-top: 1px solid var(--line); padding-top: 16px; }
+</style>
+</head>
+<body>
+<main>
+	<p class="eyebrow">Epoch of Tech · Open Geodata</p>
+	<h1>지도 위에서 다시 쓰는 IT의 역사</h1>
+	<p class="lede">Epoch of Tech는 1970년대 메인프레임 시대의 한 사람으로 시작해 연구하고, 이직하고, 창업하며
+	AI 이후까지 살아가는 턴제 IT 역사 경영 시뮬레이션입니다. 실리콘밸리에서 구로공단, 판교와 선전까지
+	실제 지리 위에서 회사와 인재가 움직입니다.</p>
+	<p class="lede">A turn-based strategy game about the history of information technology, played on a map of the real world.</p>
+
+	<h2>공개 지리 데이터 · Open geographic data</h2>
+	<p>게임 지도에 쓰인 OpenStreetMap 파생 데이터베이스를
+	<a href="https://opendatacommons.org/licenses/odbl/1-0/">Open Database License 1.0</a>으로 공개합니다.
+	Map data © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>.</p>
+	<div class="grid">
+		<div class="card"><b>35</b><span>regions · 권역</span></div>
+		<div class="card"><b>281</b><span>vector databases · 59.8 MiB</span></div>
+		<div class="card"><b>9541</b><span>terrain meshes &amp; rasters · 420.8 MiB</span></div>
+	</div>
+	<p>
+		<a class="button primary" href="https://github.com/puritysb/epoch-of-tech-geodata/tree/main/data">벡터 데이터 보기 · Browse data</a>
+		<a class="button" href="https://github.com/puritysb/epoch-of-tech-geodata/releases">지형·래스터 내려받기 · Releases</a>
+		<a class="button" href="https://github.com/puritysb/epoch-of-tech-geodata/blob/main/MANIFEST.json">MANIFEST</a>
+	</p>
+
+	<h2>출처와 라이선스 · Sources</h2>
+	<ul>
+		<li>OpenStreetMap — ODbL 1.0, 개별 내용은 DbCL 1.0. 공개적으로 쓰는 변형 DB는 같은 조건으로 공개해야 합니다.</li>
+		<li>국토교통부 건축물대장 정보(한국 도시 주변 건물 외곽) — 공공누리 제1유형, 출처표시.</li>
+		<li>Natural Earth — public domain. Made with Natural Earth.</li>
+		<li>Copernicus Global Land Service Land Cover 100m (collection 3, 2019) — CC BY 4.0. Copernicus Service information 2020.</li>
+		<li>Terrain Tiles on AWS (Mapzen/Tilezen) — NASA SRTM, USGS, ETOPO1 등.</li>
+	</ul>
+	<p>전체 고지는 <a href="https://github.com/puritysb/epoch-of-tech-geodata/blob/main/ATTRIBUTION.md">ATTRIBUTION.md</a>에 있습니다.
+	게임 본체의 코드와 아트는 이 공개본에 포함되지 않습니다.</p>
+
+	<footer>Built 2026-10-29 from game commit <code>d07a49ef6d0e</code> · <a href="https://github.com/puritysb/epoch-of-tech-geodata">https://github.com/puritysb/epoch-of-tech-geodata</a></footer>
+</main>
+</body>
+</html>

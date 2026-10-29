@@ -1,0 +1,19 @@
+{
+ "bounds": {
+  "west": -180.0,
+  "south": -90.0,
+  "east": 180.0,
+  "north": 90.0
+ },
+ "size": [
+  8192,
+  4096
+ ],
+ "sdf_scale": 2,
+ "source": "Natural Earth II with Shaded Relief and Water, 1:50m",
+ "source_url": "https://naciscdn.org/naturalearth/50m/raster/NE2_50M_SR_W.zip",
+ "license": "Public-Domain",
+ "webp_quality": 88,
+ "ocean_fill": "nearest-land",
+ "sha256": "bbe7a5034f35ddb905ce02a00bdc771d1a7ca1f55c901f9bdb08a47237eee910"
+}

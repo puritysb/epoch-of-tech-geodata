@@ -1,0 +1,19 @@
+{
+ "bounds": {
+  "west": -51.63333333333333,
+  "south": -28.55,
+  "east": -41.63333333333333,
+  "north": -18.55
+ },
+ "size": [
+  600,
+  600
+ ],
+ "pixels_per_deg": 60,
+ "source": "Natural Earth II with Shaded Relief, Water, and Drainages, 1:10m",
+ "source_url": "https://naciscdn.org/naturalearth/10m/raster/NE2_HR_LC_SR_W_DR.zip",
+ "license": "Public-Domain",
+ "webp_quality": 88,
+ "ocean_fill": "nearest-land",
+ "sha256": "7f399c3bbde9b8cf3652ce5d0f837da4f2648d13820beb135b7ed3d566cea0eb"
+}
